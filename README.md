@@ -1,6 +1,6 @@
 # Hi, I'm Ife 👋
 
-I'm a **clinician scientist** based in Lexington, Kentucky. I hold a **PhD** and **post-graduate training in Adult-Gerontology Acute Care** from the University of Kentucky College  and practise as a hospitalist at UK HealthCare. My research covers **cardiovascular outcomes, mHealth engagement, and digital health**. I also build **self-hosted AI and data infrastructure** that turns clinical and research data into models, tools, and automated workflows.
+I'm a **clinician scientist** based in Lexington, Kentucky. I hold a **PhD** and **post-graduate training in Adult-Gerontology Acute Care** from the University of Kentucky and practise as a hospitalist at UK HealthCare. My research covers **cardiovascular outcomes, mHealth engagement, and digital health**. I also build **self-hosted AI and data infrastructure** that turns clinical and research data into models, tools, and automated workflows.
 
 ## 🔭 What I'm working on
 
