@@ -19,21 +19,22 @@ I'm a **clinician scientist** based in Lexington, Kentucky. I hold a **PhD in Nu
 - **Madujibeya I**, Chung ML, Moser DK, Miller JA, Lennie TA. Self-reported engagement in exercise is associated with longer event-free survival in heart failure patients with poor functional capacity. *Eur J Cardiovasc Nurs*. 2023. [doi:10.1093/eurjcn/zvac044](https://doi.org/10.1093/eurjcn/zvac044)
 - **Madujibeya I**, Lennie T, Aroh A, Chung ML, Moser D. Measures of engagement with mHealth interventions in patients with heart failure: scoping review. *JMIR mHealth uHealth*. 2022. [doi:10.2196/35657](https://doi.org/10.2196/35657)
 
-➡️ [Full list on PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Madujibeya+I%5BAuthor%5D)
+➡️ Full list on [Google Scholar](https://scholar.google.com/citations?user=SCKuuucAAAAJ&hl=en) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Madujibeya+I%5BAuthor%5D)
 
 ## 🛠️ Tech I work with
 
-**Languages:** ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)
+**Languages & stats:** ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white) ![RStudio](https://img.shields.io/badge/-RStudio-75AADB?logo=rstudioide&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![SPSS](https://img.shields.io/badge/-SPSS-052FAD?logo=ibm&logoColor=white) ![ATLAS.ti](https://img.shields.io/badge/-ATLAS.ti-0A6ABF)
 
-**Stats & research:** ![SPSS](https://img.shields.io/badge/-SPSS%20%2F%20PROCESS-052FAD?logo=ibm&logoColor=white) ![ATLAS.ti](https://img.shields.io/badge/-ATLAS.ti-0A6ABF) ![tidyverse](https://img.shields.io/badge/-tidyverse-1A162D?logo=tidyverse&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
+**Databases:** ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
-**GenAI / LLM:** ![Anthropic](https://img.shields.io/badge/-Anthropic-D4A27A?logo=anthropic&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?logo=googlegemini&logoColor=white) ![Ollama](https://img.shields.io/badge/-Ollama-000000?logo=ollama&logoColor=white) ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?logo=huggingface&logoColor=black) ![MCP](https://img.shields.io/badge/-MCP-1C1C1C)
+**AI & machine learning:** ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00) ![Anthropic](https://img.shields.io/badge/-Anthropic-D4A27A?logo=anthropic&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white) ![Ollama](https://img.shields.io/badge/-Ollama-000000?logo=ollama&logoColor=white) ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)
 
-**Automation & infra:** ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![n8n](https://img.shields.io/badge/-n8n-EA4B71?logo=n8n&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)
+**Automation & infra:** ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![n8n](https://img.shields.io/badge/-n8n-EA4B71?logo=n8n&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
 ## 📫 Get in touch
 
 - 🌐 [prodatanalytics.com](https://prodatanalytics.com)
+- 🎓 [Google Scholar](https://scholar.google.com/citations?user=SCKuuucAAAAJ&hl=en)
 - 📚 [PubMed publications](https://pubmed.ncbi.nlm.nih.gov/?term=Madujibeya+I%5BAuthor%5D)
 
 <!---
